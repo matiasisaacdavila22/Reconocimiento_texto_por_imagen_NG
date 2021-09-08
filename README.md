@@ -1,4 +1,26 @@
 # ReconocimientoTexto
+Proyecto basado en la libreria Tessatact de CRO reconicimieto optico de caracteres.  
+Esta APP es capas de levantar un documento en formatos JPEG/JPG.
+GIF.
+PNG.
+TIF/TIFF.
+BMP.
+PSD
+RAW. 
+y devolver el texto contedido en dicho documento de imagen.
+
+*************************************************
+Project based on the Tessatact library of CRO optical character recognition.
+This APP is capable of raising a document in JPEG / JPG formats.
+GIF.
+PNG.
+TIF / TIFF.
+BMP.
+PSD
+RAW.
+and return the text contained in said image document.
+******************************************************
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
 
